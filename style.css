@@ -1,0 +1,62 @@
+body{
+    background-color: rgba(238, 236, 235, 0.874);
+}
+
+
+header{
+background-color: rgb(54, 57, 56);
+color: white;
+padding: 10px;
+text-align: center;
+}
+
+#image{
+    border-radius: 10%;
+    padding: 2%;
+}
+
+  p, div{
+    margin: 3%;
+    font-style:italic;
+    font-size: normal;
+  }
+/*
+  .procedure{
+    height: 100px;
+    width: 100px;
+  } */
+
+.ingredients{
+    background-color:rgb(209, 142, 59);
+    padding: 10px;
+    border:2px solid black;
+    border-radius: 5%;
+}
+.instructions{
+    background-color:rgb(209, 142, 59);
+    padding: 10px;
+    border:2px solid black;
+    border-radius: 5%;
+}
+.procedure1{
+    background-color:rgba(238, 236, 235, 0.874);
+    padding: 10px;
+    border:2px solid black;
+    border-radius: 5%;
+    margin-right: 50%;
+}
+.procedure2{
+    background-color:rgba(238, 236, 235, 0.874);
+    padding: 10px;
+    border:2px solid black;
+    border-radius: 5%;
+    margin-left: 50%; 
+    
+}
+
+footer{
+  background-color: rgb(90, 93, 92);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  }
